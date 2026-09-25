@@ -1,0 +1,8 @@
+:root{--primary:#2563eb;--dark:#0f172a;--card:#111827}
+body{font-family:Inter,Arial,sans-serif;background:#f8fafc;color:#111827}
+.navbar{box-shadow:0 8px 25px #0002}
+.hero{background:linear-gradient(135deg,#0f172a,#2563eb);color:white;padding:90px 0}
+.card-modern{border:0;border-radius:22px;box-shadow:0 10px 30px #0001;transition:.3s}
+.card-modern:hover{transform:translateY(-8px)}
+.btn-primary{border-radius:999px;padding:12px 25px}
+footer{background:#0f172a;color:white;padding:30px 0}
